@@ -1,5 +1,5 @@
 # Setup-Prometheus-Monitoring
-Setting up Prometheus Monitoring using Helm and Prometheus Operator
+Setting up Prometheus Monitoring using Helm and Prometheus Operator.
 
 **Viewing Grafana UI Dashboard**
 
